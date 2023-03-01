@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pinterest Data Processing Pipeline Project](https://github.com/amyjanem/Pinterest-Data-Processing-Pipeline)
 
-- 🌱 I’m currently learning **Data Science with AiCore**
+- 🌱 I’m currently learning **Data Engineering with AiCore**
 
 - 📫 How to reach me **amymallett8@gmail.com**
 

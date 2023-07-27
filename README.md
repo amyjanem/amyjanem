@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amy Mallett</h1>
 <h3 align="center">An eager-to-learn junior data engineer</h3>
 
-- 🔭 I’m currently working on [Pinterest Data Processing Pipeline Project](https://github.com/amyjanem/Pinterest-Data-Processing-Pipeline)
+- 🔭 My most recent project is [Pinterest Data Processing Pipeline Project](https://github.com/amyjanem/Pinterest-Data-Processing-Pipeline)
 
-- 🌱 I’m currently learning **Data Engineering with AiCore**
+- 🌱 I have recently completed an immersive programme in **Data Engineering with AiCore**
 
 - 📫 How to reach me **amymallett8@gmail.com**
 
